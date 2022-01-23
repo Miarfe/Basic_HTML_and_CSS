@@ -1,0 +1,15 @@
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+
+p {
+	color: purple;
+	text-align: left;
+}
+
+h3 {
+	color: lightblue;
+	text-align: center;
+}
